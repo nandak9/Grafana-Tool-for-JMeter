@@ -1,4 +1,4 @@
-Welcome to the Grafana-Dashboard-Generator wiki!
+Welcome to the Grafana-Dashboard-Generator wiki! 
 
 This app lets you automatically generate a Grafana dasbhoard with cumulative metrics and individual metrics for any Jmeter script. The app automatically parses the script and creates necessary JSON data objects in the file to create the dashboard JSON file. Each dashboard panel with have a auto generated query to influxdb.
 
